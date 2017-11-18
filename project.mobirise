@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ButeteBay",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-8581-1-128x170.png",
     "noImageResize": ""
@@ -151,7 +151,7 @@
             ],
             "fullScreen": true,
             "bgColor": "#ffffff",
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "slider-7",
           "articleLayout": false,
@@ -423,8 +423,8 @@
           "_anchor": "map1-h",
           "_params": {
             "googleMap": {
-              "address": "Siavonga, Zambia",
-              "placeId": "ChIJ-ymoYzKCOBkRLyPszrIz87g",
+              "address": "-16.501070, 28.584636\n",
+              "placeId": "ChIJJfUkM8h8RxkRaALUizwD5jI",
               "state": "ok",
               "stateDetails": ""
             }
