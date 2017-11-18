@@ -1,6 +1,9 @@
 #menu-3 .navbar-toggler {
   color: #000;
 }
+#menu-3 .nav-link {
+  font-size: 20px;
+}
 #slider-7 P {
   color: #ffffff;
 }

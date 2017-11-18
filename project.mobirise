@@ -97,6 +97,9 @@
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "20px"
             }
           }
         },
