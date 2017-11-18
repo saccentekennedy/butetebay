@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ButeteBay",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -52,8 +52,16 @@
             "showArrow": false
           },
           "title": "Butete Bay Farm",
-          "text": "An 80 hectare property situated on the shores of Lake Kariba<br>perfectly suited&nbsp;to agriculture, &nbsp;livestock and tourism.<br><br><b>NOW FOR SALE</b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Find out more...</a>"
+          "text": "<b>An 80 hectare property situated on the shores of Lake Kariba<br>perfectly suited&nbsp;to agriculture, &nbsp;livestock and tourism.<br></b><b><br></b><br><b><br></b><br><b><br>NOW FOR SALE<br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Find out more...</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
