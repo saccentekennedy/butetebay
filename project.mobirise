@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/img-8581-1-128x170.png",
     "noImageResize": ""
@@ -185,7 +185,7 @@
           "_anchor": "msg-box4-9",
           "_params": {
             "imageSize": "33",
-            "paddingTop": 0,
+            "paddingTop": "3",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "parallax": true,
@@ -402,7 +402,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-j",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -448,10 +448,42 @@
             "Theme"
           ],
           "_name": "msg-box2",
+          "_anchor": "msg-box2-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": false,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "title": "One of the Easiest Website Builders",
+          "text": ""
+        },
+        {
+          "_inherit": "msg-box1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
           "_anchor": "msg-box2-r",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/craigkennedy/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_1.jpg",
@@ -539,8 +571,8 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-m",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
